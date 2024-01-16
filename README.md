@@ -8,7 +8,7 @@ Assets:
 - Text Mesh Pro: TextMeshPro 2.1.6
 - Zenject version: Extenject Dependency Injection IOC 9.2.0
 
-Description of the game: It's very basic Tic Tac Toe game with menu. In the menu Player can choose game mode, also using bundle can change the assets. In the game there are few additionals functionalities like showing hint, resetting the game and undo the action, going back to menu etc.
+Description of the game: It's very basic Tic Tac Toe game with menu. There are 3 modes Player vs CPU, Player vs Player and CPU vs CPU. In the menu Player can choose game mode, also using reskin button can change the assets (asset bundles/streaming assets). In the game there are few additionals functionalities like showing hint, resetting the game and undo the action, going back to menu etc.
 
 _<p align="center"> (Main menu) </p>_
 
