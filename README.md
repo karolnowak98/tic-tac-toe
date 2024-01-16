@@ -1,1 +1,2 @@
-# tic-tac-toe-unity
+# tic-tac-toe-game
+tic-tac-toe-game

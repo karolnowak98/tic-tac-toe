@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9964ae4c6db234a4b9b6f2703c4c6549, type: 3}
+  m_Name: Tic Tac Toe Config
+  m_EditorClassIdentifier: 
+  _boardSize: {x: 3, y: 3}
+  _secondsToMakeMove: 5
+  _computerMinThinkSeconds: 1
+  _computerMaxThinkSeconds: 5
+  _turnTimerUIRefreshInterval: 0.1
+  _useRandomFirstTurn: 0
+  _firstTurn: 1
+  _xSprite: {fileID: 21300000, guid: 20113740455124913921ee4a617842dc, type: 3}
+  _oSprite: {fileID: 21300000, guid: f3b635c9bf88c4260933c361757ea8a1, type: 3}
+  _backgroundSprite: {fileID: 21300000, guid: 79ae18c0c2c844665bc4053e8e2f3a0a, type: 3}
+  _player1Name: Player 1
+  _player2Name: Player 2
+  _firstComputerName: Chicken
+  _secondComputerName: Monkey
