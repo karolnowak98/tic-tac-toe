@@ -10,6 +10,8 @@ Assets:
 
 Description of the game: It's very basic Tic Tac Toe game with menu. There are 3 modes Player vs CPU, Player vs Player and CPU vs CPU. In the menu Player can choose game mode, also using reskin button can change the assets (asset bundles/streaming assets). In the game there are few additionals functionalities like showing hint, resetting the game and undo the action, going back to menu etc.
 
+Game is pretty much covered with unit tests.
+
 _<p align="center"> (Main menu) </p>_
 
 ![image](https://github.com/karolnowak98/tic-tac-toe-unity/assets/74615234/a96c39e5-1391-4ac7-b253-912c29f0e070)
